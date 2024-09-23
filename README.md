@@ -35,6 +35,7 @@ HOW TO USE
 4. The pitch will display the selected player's actions in a blue marker.
 
 DATA
+
 The application uses a CSV file (`club_actions.csv`) containing the following columns:
 
 - `player`: Name of the player
@@ -44,4 +45,6 @@ The application uses a CSV file (`club_actions.csv`) containing the following co
 
 Ensure the CSV file is formatted correctly and located in the same directory as the script.
 
+DEVELOPMENT
 
+This application was developed using Visual Studio Code.

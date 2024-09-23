@@ -25,7 +25,7 @@ INSTALLATION
 2. Run the Application:
    Execute the following command in the terminal:
    ```bash
-   streamlit run club_action_map.py
+   streamlit run club_action_map.py (insert your python file name here)
    ```
 
 HOW TO USE
